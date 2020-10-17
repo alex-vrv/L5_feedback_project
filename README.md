@@ -5,3 +5,4 @@ Simulating modulation of L2/3 population responses to L4 input, by different con
 - code: structured notebooks for simulations
 - helpers: stimulus builders
 - batch_scripts: py files for running batch simulations
+- simulations: simulations output csv files + example scatter plots
